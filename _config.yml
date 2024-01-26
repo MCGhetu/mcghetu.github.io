@@ -1,2 +1,19 @@
-theme: jekyll-theme-tactile
-title: Student at WIS
+theme: jekyll-theme-tacti
+title: "Student at WIS"
+show_downloads: false
+
+author: Maria-Cristina Ghetu
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+
+navbar-links:
+  About Me: "Current Research"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+
+title-on-all-pages: true
