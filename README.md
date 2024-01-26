@@ -2,4 +2,4 @@ My name is Maria-Cristina Ghetu and I am a PhD student in [The Haran Group](http
 
 My ongoing research centers on exploring how electron spin influences various bio-related interactions, spanning from protein-protein associations to enzyme kinetics. Recent advancements in understanding the chiral induced spin selectivity (CISS) effect highlight the potential of manipulating electron spin, despite its complexities, to innovate new bio-based materials, enhance existing processes, and deepen our comprehension of structure-property relationships within chiral molecules.
 
-![cisse](https://www.google.ro/imgres?imgurl=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2Fbc41038e8b6ab78d1d55a5ec93cd3efd61a68fc2%2F2-Figure1-1.png&tbnid=MYSiBiP2O7iKzM&vet=12ahUKEwj2uOmglPyDAxV8nv0HHT7fBh8QMygGegQIARBh..i&imgrefurl=https%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FChiral-Molecules-and-the-Spin-Selectivity-Effect-Naaman-Paltiel%2F768bdfa07446577e71af4ea9f66b0fdbe730a1af&docid=NOWfXRTPFMqqvM&w=1228&h=792&q=chiral%20induced%20spin%20selectivity%20effect&ved=2ahUKEwj2uOmglPyDAxV8nv0HHT7fBh8QMygGegQIARBh)
+![cisse](CISSE.jpeg)
